@@ -1,0 +1,31 @@
+Java
+HTML
+CSS 
+MySQL
+MongoDB
+Oracle
+Windows
+Linux
+VS Code 
+Git 
+GitHub
+Visual Studio
+Neovim 
+Variables
+Loops
+Arrays
+Functions 
+Firewall
+Encryption
+Authentication
+Authorization
+Microsoft Azure 
+Amazon AWS 
+Google Cloud 
+Cloud Storage 
+Virtual Machines 
+file 9 
+Aseel Monther
+Amal Jaraysi
+file 10 
+the last one 
