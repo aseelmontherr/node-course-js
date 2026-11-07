@@ -1,4 +1,4 @@
-//Aseel Monther + Amal Jaraysi 
+//Aseel Monther
 const fs = require("fs");
 const path = require("path");
 
