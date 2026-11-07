@@ -1,5 +1,0 @@
-Microsoft Azure 
-Amazon AWS 
-Google Cloud 
-Cloud Storage 
-Virtual Machines 
