@@ -1,4 +1,11 @@
 //Aseel Monther
+/*
+This program reads 10 text files from the input folder.
+For each file, it copies a specific number of lines:
+1 line from the first file, 2 lines from the second file, and so on, up to 10 lines from the tenth file
+If a file contains fewer lines than required, the program copies only the available lines. 
+All selected lines are combined and written into a single file named output.txt
+*/
 const fs = require("fs");
 const path = require("path");
 
